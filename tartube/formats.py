@@ -48,6 +48,7 @@ locale_setup_list = [
     'ta',       'தமிழ்',
     'tr',       'Türkçe',
     'vi',       'Tiếng Việt',
+    'pt_BR',    'Português (Brasil)',
     'zh_CN',    '中文简体',
     'zh_Hant',  '正體字',
 ]
